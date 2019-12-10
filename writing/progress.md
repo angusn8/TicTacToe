@@ -1,0 +1,5 @@
+# Progress report
+# Nathaniel Angus
+Progress has come quite well on my project thus far.  I have successfully gotten the game to draw the tic tac toe board and it allows the user to place an X in the grid for the first move.  I have also set it up so that the subsequent turns will be played, alternating between X and O.  However, due to the check win condition method not working in the game class, it is still stopping the game after one turn.  It is stopping the game because it thinks the player has won after the first move, which is obviously not possible in tic tac toe.  Once I fix the check win I will be almost done and will just have a few other bugs to fix like how it says it's O's turn even when an X is about to be placed.  Another bug is that the lines on the grid sometimes move after an X or O is placed, but not on every turn and for no particular reason.  Those are the only three things I have to fix then I am done with the project.
+
+![UML Diagrams](https://drive.google.com/open?id=1-uJusvjAPa_xovfqDH-jpiizjwd7povf)
